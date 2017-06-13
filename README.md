@@ -1,2 +1,2 @@
 # toontown-infinite.github.io
-A sad page
+Landing page for Toontown Infinite's website.
