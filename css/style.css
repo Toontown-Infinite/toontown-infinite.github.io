@@ -41,8 +41,8 @@ html{
 .tti-logo{
 	width: auto;
 	min-height: 150px;
-	-webkit-animation: logozoom  5s linear infinite;
-    animation: logozoom 5s linear infinite;
+	-webkit-animation: logozoom  5s ease-in-out infinite;
+    animation: logozoom 5s ease-in-out infinite;
     margin-top: 75px;
 }
 
